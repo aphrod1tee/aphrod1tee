@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Odelia!
+- 👋 Hi, I’m Grace!
 - 👀 I’m interested in Arduino, design and coding
 - 🌱 I’m currently learning Arduino and C++
 - 💞️ I’m looking to collaborate on UAV's and simple video games
